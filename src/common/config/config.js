@@ -1,7 +1,7 @@
 // default config
 module.exports = {
     default_module: 'api',
-	port: 8360, //服务端口，可自定义
+	port: 80, //服务端口，可自定义
     weixin: {
         appid: 'wxae1963a66c882e8d', // 小程序 appid
         secret: 'e7abbc5ed69a35f54dabe993d1ce0e46', // 小程序密钥
